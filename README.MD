@@ -12,6 +12,12 @@ Clone the git repo into your libs folder then done.
 
 ---
 
+## Dependencies
+
+ - Msibi_PHP_FileManager Lib 
+
+---
+
 ## Usage
 
 ```php
